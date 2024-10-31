@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="happy_birthday_text">Selamat Ulang Tahun Arkan!</string>
+    <string name="signature_text">Dari Kagura</string>
+    <style name="Theme.HappyBirthday" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
